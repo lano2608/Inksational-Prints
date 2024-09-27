@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const gallery = document.getElementById('gallery');
     const imageFolder = 'images/';
-    const imageCount = 10; // Number of images in the folder
+    const imageCount = 39; // Number of images in the folder
     let currentIndex = 0;
 
     for (let i = 1; i <= imageCount; i++) {
